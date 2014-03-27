@@ -1,0 +1,10 @@
+{
+  "name": "things",
+  "version": "0.0.1"
+},
+  "dependencies": {
+    "bulshit": "0.0.3",
+    "done-better-elsewhere": "0.7.69",
+    "reinvented-wheel": "1.0.12",
+  }
+}
